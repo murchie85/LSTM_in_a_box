@@ -1,5 +1,9 @@
 # LSTM in a box
 
+  
+![](archive/box.png)
+
+
 The idea is to abstract out as much functionality to configurable values to make a lite deployable service in a docker container. 
 
 [`status`] In Progress.
