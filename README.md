@@ -2,11 +2,20 @@
 
   
 ![](archive/box.png)
+*LSTM that can be deployed in a docker container and configured to run on your data*
+    
+[`status`] In Progress.  
+
+## Basics  
+  
+
+- A LSTM that you point to your text
+- It trains inside a docker container
+- Model is saved locally
+- Prediction is provided at end of run.  
 
 
 The idea is to abstract out as much functionality to configurable values to make a lite deployable service in a docker container. 
-
-[`status`] In Progress.
 
 
 ## LAYERED LSTM Script Generator
